@@ -1,0 +1,11 @@
+output for input2.json.
+
+We were instructed to use the first k = 7 roots to form the polynomial.
+Each of the roots was given in a different base, and they were converted to decimal numbers.
+Since the roots are very large, the coefficients of the polynomial are also extremely large.
+
+The polynomial was built by multiplying (x - root) for each of the seven chosen roots.
+The program successfully expanded the polynomial using BigInteger to avoid overflow.
+
+The exact coefficients are printed by the program when run with input2.json.
+Due to their massive size, we are storing them as raw program output instead of writing them manually here.

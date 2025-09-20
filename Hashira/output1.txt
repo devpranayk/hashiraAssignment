@@ -1,0 +1,10 @@
+output for input1.json.
+
+The given values were converted into decimal roots: 4, 7, and 12.
+The polynomial was constructed step by step as (x - 4)(x - 7)(x - 12).
+
+The expanded polynomial is:
+1x^3 - 23x^2 + 160x^1 - 336
+
+The list of coefficients, starting from constant term to highest degree, is:
+[-336, 160, -23, 1]
